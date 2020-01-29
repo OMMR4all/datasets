@@ -1,0 +1,69 @@
+{
+  "actions": {
+    "Unlocked": 1,
+    "LayoutDelete": 4,
+    "LayoutSelect": 4,
+    "LayoutEdit": 2,
+    "LayoutAutomatic": 1,
+    "ReadingOrderAuto": 1
+  },
+  "toolTiming": {
+    "View": 4593,
+    "Layout": 23732,
+    "Lyrics": 9821
+  },
+  "actionHistory": [
+    {
+      "action": 5,
+      "time": 25942.27499999988
+    },
+    {
+      "action": 228,
+      "time": 29319.264999999632
+    },
+    {
+      "action": 225,
+      "time": 33359.95999999977
+    },
+    {
+      "action": 226,
+      "time": 36496.749999999796
+    },
+    {
+      "action": 223,
+      "time": 38233.88999999997
+    },
+    {
+      "action": 225,
+      "time": 38997.97999999965
+    },
+    {
+      "action": 223,
+      "time": 39704.969999999776
+    },
+    {
+      "action": 225,
+      "time": 39974.44499999983
+    },
+    {
+      "action": 223,
+      "time": 40610.67000000003
+    },
+    {
+      "action": 225,
+      "time": 40918.06499999984
+    },
+    {
+      "action": 226,
+      "time": 43354.16499999974
+    },
+    {
+      "action": 223,
+      "time": 44269.045000000006
+    },
+    {
+      "action": 602,
+      "time": 50719.74499999988
+    }
+  ]
+}

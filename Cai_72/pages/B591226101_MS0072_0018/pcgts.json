@@ -1,0 +1,3089 @@
+{
+  "version": 1,
+  "meta": {
+    "creator": "",
+    "created": "2019-12-06 08:31:08.128593",
+    "lastChange": "2019-12-06 08:31:08.128596"
+  },
+  "page": {
+    "blocks": [
+      {
+        "id": "page_0:block_0",
+        "coords": "",
+        "type": "music",
+        "lines": [
+          {
+            "id": "page_0:block_0:line_0",
+            "coords": "0.6875,0.16972320413637212 0.7123579545454546,0.16794763595455395 0.7258522727272727,0.1683027495909176 0.7677556818181819,0.16510672686364486 0.8764204545454546,0.16226581777273577 0.8913352272727273,0.16084536322728124 0.9694602272727273,0.15800445413637212 1.0411931818181819,0.1565839995909176 1.0411931818181819,0.17720170454545456 1.0383522727272727,0.1903409090909091 1.0440340909090908,0.2102483867727188 0.9595170454545455,0.21273418222726423 0.9389204545454546,0.2145097504090824 0.9183238636363636,0.2141546367727188 0.8799715909090909,0.21557509131817332 0.828125,0.21877111404544605 0.7670454545454546,0.21983645495453696 0.6875,0.22445293222726423 0.6875,0.203125 0.6875,0.18963068181818182",
+            "reconstructed": false,
+            "staffLines": [
+              {
+                "id": "page_0:block_0:line_0:sl_0",
+                "coords": "0.6900560566790576,0.17633198864644511 0.7677556818181819,0.171875 0.8913352272727273,0.16761363636363638 0.9694602272727273,0.16477272727272727 1.0411931818181819,0.16335227272727273",
+                "highlighted": false,
+                "space": false
+              },
+              {
+                "id": "page_0:block_0:line_0:sl_1",
+                "coords": "0.6862071363555712,0.18898424999596738 0.7835082727192075,0.18401265908687647 0.8666048636282984,0.18259220454142194 0.9425991818101166,0.17833084090505832 1.0399003181737534,0.17655527272324015",
+                "highlighted": false,
+                "space": false
+              },
+              {
+                "id": "page_0:block_0:line_0:sl_2",
+                "coords": "0.6875,0.203125 0.8146306818181819,0.19744318181818182 0.8941761363636364,0.19460227272727273 0.9730113636363636,0.19176136363636365 1.015625,0.1903409090909091 1.0383522727272727,0.1903409090909091",
+                "highlighted": false,
+                "space": false
+              },
+              {
+                "id": "page_0:block_0:line_0:sl_3",
+                "coords": "0.6875,0.2176846590909091 0.7670454545454546,0.21306818181818182 0.8799715909090909,0.20880681818181818 0.9183238636363636,0.20738636363636365 0.9595170454545455,0.2059659090909091 1.0440340909090908,0.20348011363636365",
+                "highlighted": false,
+                "space": false
+              }
+            ],
+            "symbols": [
+              {
+                "id": "clef_0",
+                "type": "clef",
+                "fixedSorting": false,
+                "coord": "0.6909694513419063,0.18765981226364167",
+                "positionInStaff": 7,
+                "clefType": "c"
+              },
+              {
+                "id": "note_0",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.7018599622999246,0.1853155348244496",
+                "positionInStaff": 7,
+                "noteType": 0,
+                "oct": 4,
+                "pname": 2,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_1",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.7091710211637209,0.19486671463041474",
+                "positionInStaff": 6,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 1,
+                "graphicalConnection": 1
+              },
+              {
+                "id": "note_2",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.7217484715761114,0.18887455860673039",
+                "positionInStaff": 7,
+                "noteType": 0,
+                "oct": 4,
+                "pname": 2,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_3",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.7295733765298148,0.1794153629857967",
+                "positionInStaff": 8,
+                "noteType": 0,
+                "oct": 4,
+                "pname": 3,
+                "graphicalConnection": 1
+              },
+              {
+                "id": "note_4",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.7364128452933025,0.18864970082490856",
+                "positionInStaff": 7,
+                "noteType": 0,
+                "oct": 4,
+                "pname": 2,
+                "graphicalConnection": 1
+              },
+              {
+                "id": "note_5",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.7518512185972857,0.18586948716306104",
+                "positionInStaff": 7,
+                "noteType": 0,
+                "oct": 4,
+                "pname": 2,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_6",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.7616899854064255,0.19151867775853174",
+                "positionInStaff": 6,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 1,
+                "graphicalConnection": 0
+              },
+              {
+                "id": "note_7",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.7715483930122996,0.19929398203736612",
+                "positionInStaff": 5,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 0,
+                "graphicalConnection": 0
+              },
+              {
+                "id": "note_8",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.7836110146037623,0.19010168305351055",
+                "positionInStaff": 6,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 1,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_9",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.803884938844835,0.19486133193447924",
+                "positionInStaff": 5,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 0,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_10",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.8111903337685,0.2042110747744483",
+                "positionInStaff": 4,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 6,
+                "graphicalConnection": 1
+              },
+              {
+                "id": "note_11",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.861440760809187,0.19511162729548012",
+                "positionInStaff": 5,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 0,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_12",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.889974798965285,0.199895131306163",
+                "positionInStaff": 4,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 6,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_13",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.9412607588367637,0.19300833885868227",
+                "positionInStaff": 5,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 0,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_14",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.9418458486044428,0.17931573485233668",
+                "positionInStaff": 7,
+                "noteType": 0,
+                "oct": 4,
+                "pname": 2,
+                "graphicalConnection": 1
+              },
+              {
+                "id": "note_15",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "1.0008637179325863,0.17834624213236716",
+                "positionInStaff": 7,
+                "noteType": 0,
+                "oct": 4,
+                "pname": 2,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_16",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "1.0228287873693953,0.1824232673015152",
+                "positionInStaff": 6,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 1,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_17",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "1.0295262067871453,0.19157923308780617",
+                "positionInStaff": 5,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 0,
+                "graphicalConnection": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "page_0:block_1",
+        "coords": "",
+        "type": "music",
+        "lines": [
+          {
+            "id": "page_0:block_1:line_1",
+            "coords": "0.6846590909090909,0.261697635954554 0.7634943181818182,0.25743627231819033 0.8117897727272727,0.2560158177727358 0.8394886363636364,0.2563709314090994 0.8771306818181819,0.2531749086818267 0.8963068181818182,0.2531749086818267 0.9147727272727273,0.25175445413637215 1.03125,0.24891354504546304 1.0326704545454546,0.2688210227272727 1.03125,0.28160511363636365 1.03125,0.30364327313635514 1.015625,0.3047086140454461 0.9794034090909092,0.3047086140454461 0.9417613636363636,0.3068392958636279 0.9211647727272727,0.30648418222726426 0.8693181818181819,0.30968020495453696 0.8544034090909091,0.3093250913181733 0.8380681818181819,0.3107455458636279 0.8153409090909091,0.3107455458636279 0.6846590909090909,0.3157171367727188 0.6846590909090909,0.2950994318181818 0.6846590909090909,0.28125",
+            "reconstructed": false,
+            "staffLines": [
+              {
+                "id": "page_0:block_1:line_1:sl_4",
+                "coords": "0.6846590909090909,0.26814269317980194 0.7634943181818182,0.2638813295434383 0.8117897727272727,0.26246087499798376 0.8771306818181819,0.25961996590707465 0.9147727272727273,0.2581995113616201 1.03125,0.255358602270711",
+                "highlighted": false,
+                "space": false
+              },
+              {
+                "id": "page_0:block_1:line_1:sl_5",
+                "coords": "0.6853055227313055,0.2815732159111072 1.0329936704565617,0.26752815908284383",
+                "highlighted": false,
+                "space": false
+              },
+              {
+                "id": "page_0:block_1:line_1:sl_6",
+                "coords": "0.6846590909090909,0.2950994318181818 0.7848011363636364,0.2911931818181818 0.8970170454545455,0.2869318181818182 0.9815340909090909,0.28373579545454547 1.03125,0.28160511363636365",
+                "highlighted": false,
+                "space": false
+              },
+              {
+                "id": "page_0:block_1:line_1:sl_7",
+                "coords": "0.689507329575699,0.3073327840808276 0.8429164204847899,0.3023611931717367 0.8741664204847899,0.30129585226264577 0.9266594432160952,0.3000391250020163 1.020473238666608,0.2963242613535549 1.0360982386666069,0.29525892044446395",
+                "highlighted": false,
+                "space": false
+              }
+            ],
+            "symbols": [
+              {
+                "id": "clef_1",
+                "type": "clef",
+                "fixedSorting": false,
+                "coord": "0.6941244235303978,0.2663320047506778",
+                "positionInStaff": 9,
+                "clefType": "c"
+              },
+              {
+                "id": "note_18",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.7088272146049108,0.2712277634324589",
+                "positionInStaff": 8,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 1,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_19",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.7314865985078751,0.2759308510638298",
+                "positionInStaff": 7,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 0,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_20",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.7376606106659298,0.28560203094777564",
+                "positionInStaff": 6,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 6,
+                "graphicalConnection": 1
+              },
+              {
+                "id": "note_21",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.7542957436574458,0.28109584957989214",
+                "positionInStaff": 7,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 0,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_22",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.7548073992653154,0.2691168343546316",
+                "positionInStaff": 8,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 1,
+                "graphicalConnection": 1
+              },
+              {
+                "id": "note_23",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.7944668821640575,0.26859111633047805",
+                "positionInStaff": 8,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 1,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_24",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.8421578960142789,0.2756496307028222",
+                "positionInStaff": 7,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 0,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_25",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.8491036888643271,0.25981279358938936",
+                "positionInStaff": 9,
+                "noteType": 0,
+                "oct": 4,
+                "pname": 2,
+                "graphicalConnection": 1
+              },
+              {
+                "id": "note_26",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.8559166896932854,0.27567180160265264",
+                "positionInStaff": 7,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 0,
+                "graphicalConnection": 1
+              },
+              {
+                "id": "note_27",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.8674497875794419,0.2672257097955236",
+                "positionInStaff": 8,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 1,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_28",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.8687759958406654,0.2571713525835866",
+                "positionInStaff": 9,
+                "noteType": 0,
+                "oct": 4,
+                "pname": 2,
+                "graphicalConnection": 1
+              },
+              {
+                "id": "note_29",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.8928446370210861,0.2792061890787129",
+                "positionInStaff": 6,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 6,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_30",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.935099474993092,0.29245676752325683",
+                "positionInStaff": 4,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 4,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_31",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.9376430354490289,0.2826420602039987",
+                "positionInStaff": 5,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 5,
+                "graphicalConnection": 1
+              },
+              {
+                "id": "note_32",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.9541140252576423,0.29172487284189413",
+                "positionInStaff": 4,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 4,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_33",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.9551745467682293,0.2774127915164298",
+                "positionInStaff": 6,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 6,
+                "graphicalConnection": 1
+              },
+              {
+                "id": "note_34",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.9666870616718641,0.28206785615600205",
+                "positionInStaff": 5,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 5,
+                "graphicalConnection": 0
+              },
+              {
+                "id": "note_35",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.9775157403386887,0.2906504115185726",
+                "positionInStaff": 4,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 4,
+                "graphicalConnection": 0
+              },
+              {
+                "id": "note_36",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.9906023640113687,0.28220971657521815",
+                "positionInStaff": 5,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 5,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_37",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "1.0019674553420927,0.28935740995218767",
+                "positionInStaff": 4,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 4,
+                "graphicalConnection": 0
+              },
+              {
+                "id": "note_38",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "1.0124817066306429,0.2954762928167184",
+                "positionInStaff": 3,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 3,
+                "graphicalConnection": 0
+              },
+              {
+                "id": "note_39",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "1.031207751153893,0.2883913395818119",
+                "positionInStaff": 4,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 4,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_40",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "1.0366360700469741,0.2968426188173529",
+                "positionInStaff": 3,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 3,
+                "graphicalConnection": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "page_0:block_2",
+        "coords": "",
+        "type": "music",
+        "lines": [
+          {
+            "id": "page_0:block_2:line_2",
+            "coords": "0.6921592580316915,0.3540271814090994 0.8057956216680552,0.35118627231819033 0.8959944853044189,0.3469249086818267 0.9989774398498734,0.34479422686364486 1.0521380580563862,0.3425418303073873 1.050148586079746,0.3631283594898255 1.0521380580563864,0.3751724005018366 1.0497506916844177,0.3971507549457263 0.9971590909090909,0.3977483867727188 0.9659090909090909,0.39810350040908243 0.953125,0.4005892958636279 0.9353693181818182,0.40023418222726426 0.9161931818181819,0.40200975040908243 0.8955965909090909,0.4016546367727188 0.8586647727272727,0.4030750913181733 0.8423295454545455,0.4044955458636279 0.7883522727272727,0.40591600040908243 0.7684659090909091,0.4076915685909006 0.7201704545454546,0.4084017958636279 0.7073863636363636,0.4101773640454461 0.6903409090909091,0.4094671367727188 0.6917613636363636,0.38920454545454547 0.6903409090909091,0.37535511363636365",
+            "reconstructed": false,
+            "staffLines": [
+              {
+                "id": "page_0:block_2:line_2:sl_8",
+                "coords": "0.6921592580316915,0.36079545454545453 0.8057956216680552,0.35795454545454547 0.8959944853044189,0.3536931818181818 0.9989774398498734,0.3515625 1.0521380580563862,0.3493101034437424",
+                "highlighted": false,
+                "space": false
+              },
+              {
+                "id": "page_0:block_2:line_2:sl_9",
+                "coords": "0.6903409090909091,0.37438546590304195 0.7052556818181819,0.3736752386303147 0.7365056818181819,0.3726098977212238 0.8338068181818182,0.3697689886303147 0.9161931818181819,0.36550762499395106 0.9971590909090909,0.3644422840848601 1.0501485860797457,0.3621587117565039",
+                "highlighted": false,
+                "space": false
+              },
+              {
+                "id": "page_0:block_2:line_2:sl_10",
+                "coords": "0.6917613636363636,0.38920454545454547 0.7663352272727273,0.38600852272727276 0.7940340909090909,0.3845880681818182 0.8700284090909091,0.38210227272727276 0.9105113636363636,0.38032670454545453 0.9817892727111425,0.37696695453335677 0.9971590909090909,0.3767755681818182 1.0521380580563864,0.3751724005018366",
+                "highlighted": false,
+                "space": false
+              },
+              {
+                "id": "page_0:block_2:line_2:sl_11",
+                "coords": "0.6906641250020162,0.4010827840808276 0.7204936704565619,0.4000174431717367 0.78867548863838,0.3975316477171913 0.85898798863838,0.3946907386262822 0.9853808441287851,0.39043971965339763 1.0500739075955252,0.3887664022538352",
+                "highlighted": false,
+                "space": false
+              }
+            ],
+            "symbols": [
+              {
+                "id": "clef_2",
+                "type": "clef",
+                "fixedSorting": false,
+                "coord": "0.6978689893910781,0.37325577622348766",
+                "positionInStaff": 7,
+                "clefType": "c"
+              },
+              {
+                "id": "note_41",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.7137669442473302,0.3943252211091234",
+                "positionInStaff": 4,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 6,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_42",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.7330337924092366,0.38842100577398875",
+                "positionInStaff": 5,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 0,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_43",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.7332347035043334,0.37395298631141877",
+                "positionInStaff": 7,
+                "noteType": 0,
+                "oct": 4,
+                "pname": 2,
+                "graphicalConnection": 1
+              },
+              {
+                "id": "note_44",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.763302755836911,0.37914545718959863",
+                "positionInStaff": 6,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 1,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_45",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.7704383550234851,0.3686808855268316",
+                "positionInStaff": 7,
+                "noteType": 0,
+                "oct": 4,
+                "pname": 2,
+                "graphicalConnection": 1
+              },
+              {
+                "id": "note_46",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.7777385282479344,0.3788662980720982",
+                "positionInStaff": 6,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 1,
+                "graphicalConnection": 1
+              },
+              {
+                "id": "note_47",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.7949851771081538,0.3910772754260299",
+                "positionInStaff": 4,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 6,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_48",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.8030043760034756,0.38225515991710374",
+                "positionInStaff": 5,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 0,
+                "graphicalConnection": 1
+              },
+              {
+                "id": "note_49",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.8085235436354247,0.36956011676455885",
+                "positionInStaff": 7,
+                "noteType": 0,
+                "oct": 4,
+                "pname": 2,
+                "graphicalConnection": 1
+              },
+              {
+                "id": "note_50",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.8160223978181788,0.3843004578488116",
+                "positionInStaff": 5,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 0,
+                "graphicalConnection": 1
+              },
+              {
+                "id": "note_51",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.8263969362391387,0.36929814250574333",
+                "positionInStaff": 7,
+                "noteType": 0,
+                "oct": 4,
+                "pname": 2,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_52",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.8634463200638626,0.36774243147744545",
+                "positionInStaff": 7,
+                "noteType": 0,
+                "oct": 4,
+                "pname": 2,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_53",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.8938013983362986,0.3727983526685133",
+                "positionInStaff": 6,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 1,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_54",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.9176595700116624,0.38216037565860356",
+                "positionInStaff": 5,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 0,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_55",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.9251832398077656,0.37248301010587614",
+                "positionInStaff": 6,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 1,
+                "graphicalConnection": 1
+              },
+              {
+                "id": "note_56",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.9319362606781458,0.38220244428840366",
+                "positionInStaff": 5,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 0,
+                "graphicalConnection": 1
+              },
+              {
+                "id": "note_57",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.9487454390371037,0.37935580033859895",
+                "positionInStaff": 5,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 0,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "clef_3",
+                "type": "clef",
+                "fixedSorting": false,
+                "coord": "1.033765232691102,0.36264077402833084",
+                "positionInStaff": 7,
+                "clefType": "c"
+              },
+              {
+                "id": "note_58",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "1.042978360044345,0.3749797483039614",
+                "positionInStaff": 5,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 0,
+                "graphicalConnection": 2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "page_0:block_3",
+        "coords": "",
+        "type": "music",
+        "lines": [
+          {
+            "id": "page_0:block_3:line_3",
+            "coords": "0.6931818181818182,0.4484874086818267 0.7123579545454546,0.4495527495909176 0.7464488636363636,0.44635672686364486 0.7627840909090909,0.4467118405000085 0.7890625,0.44493627231819033 0.8139204545454546,0.445291385954554 0.9872159090909092,0.43854422686364486 1.046875,0.437478885954554 1.0497159090909092,0.45703125 1.0440340909090908,0.4715909090909091 1.0482954545454546,0.4929188413181733 0.9268465909090909,0.49504952313635514 0.8707386363636364,0.4986006594999915 0.8473011363636364,0.4982455458636279 0.6931818181818182,0.5035722504090825 0.6931818181818182,0.4825994318181818 0.6917613636363636,0.46875",
+            "reconstructed": false,
+            "staffLines": [
+              {
+                "id": "page_0:block_3:line_3:sl_12",
+                "coords": "0.6931818181818182,0.4549324659070746 0.7464488636363636,0.45280178408889277 0.7890625,0.45138132954343824 0.9872159090909092,0.44498928408889277 1.046875,0.4439239431798019",
+                "highlighted": false,
+                "space": false
+              },
+              {
+                "id": "page_0:block_3:line_3:sl_13",
+                "coords": "0.6920845795474709,0.4690732159111072 0.7222373409131235,0.468135465903042 0.7897089318222145,0.46493944317576935 0.8365839318222145,0.46351898863031477 0.9466691590949418,0.4606780795394057 1.0503623409131237,0.4560616022666784",
+                "highlighted": false,
+                "space": false
+              },
+              {
+                "id": "page_0:block_3:line_3:sl_14",
+                "coords": "0.6931818181818182,0.4825994318181818 0.7542613636363636,0.48153409090909094 0.8210227272727273,0.4786931818181818 0.9055397727272727,0.47585227272727276 0.9813469432160953,0.4728157386262822 1.0482358977534845,0.4696516136242659",
+                "highlighted": false,
+                "space": false
+              },
+              {
+                "id": "page_0:block_3:line_3:sl_15",
+                "coords": "0.6931818181818182,0.4968039772727273 0.8473011363636364,0.49147727272727276 0.9268465909090909,0.48828125 1.0502045581077006,0.4838596439071228",
+                "highlighted": false,
+                "space": false
+              }
+            ],
+            "symbols": [
+              {
+                "id": "clef_4",
+                "type": "clef",
+                "fixedSorting": false,
+                "coord": "0.6994648897826328,0.4685271386968003",
+                "positionInStaff": 7,
+                "clefType": "c"
+              },
+              {
+                "id": "note_59",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.7137047215279024,0.4816701538544713",
+                "positionInStaff": 5,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 0,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_60",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.74202606958137,0.4896230086032317",
+                "positionInStaff": 4,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 6,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_61",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.7486621392479486,0.48109919137006957",
+                "positionInStaff": 5,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 0,
+                "graphicalConnection": 1
+              },
+              {
+                "id": "note_62",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.7498216766221885,0.46737476947366047",
+                "positionInStaff": 7,
+                "noteType": 0,
+                "oct": 4,
+                "pname": 2,
+                "graphicalConnection": 1
+              },
+              {
+                "id": "note_63",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.759445704731111,0.4691839700275354",
+                "positionInStaff": 7,
+                "noteType": 0,
+                "oct": 4,
+                "pname": 2,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_64",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.76034102625278,0.45976207503528627",
+                "positionInStaff": 8,
+                "noteType": 0,
+                "oct": 4,
+                "pname": 3,
+                "graphicalConnection": 1
+              },
+              {
+                "id": "note_65",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.7989238477334831,0.4647550874469986",
+                "positionInStaff": 7,
+                "noteType": 0,
+                "oct": 4,
+                "pname": 2,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_66",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.836489039966081,0.46428112855015163",
+                "positionInStaff": 7,
+                "noteType": 0,
+                "oct": 4,
+                "pname": 2,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_67",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.8634862653514823,0.46242610608999213",
+                "positionInStaff": 7,
+                "noteType": 0,
+                "oct": 4,
+                "pname": 2,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_68",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.8997125237004875,0.46479458402173585",
+                "positionInStaff": 7,
+                "noteType": 0,
+                "oct": 4,
+                "pname": 2,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_69",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.9004206643717142,0.4532557419967791",
+                "positionInStaff": 8,
+                "noteType": 0,
+                "oct": 4,
+                "pname": 3,
+                "graphicalConnection": 1
+              },
+              {
+                "id": "note_70",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.9282423102251578,0.46903670422744376",
+                "positionInStaff": 6,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 1,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_71",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.9306734218215175,0.45783061149923504",
+                "positionInStaff": 7,
+                "noteType": 0,
+                "oct": 4,
+                "pname": 2,
+                "graphicalConnection": 1
+              },
+              {
+                "id": "note_72",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.9470592495450946,0.46678593312864036",
+                "positionInStaff": 6,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 1,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_73",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.9523812883971404,0.4751257359895705",
+                "positionInStaff": 5,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 0,
+                "graphicalConnection": 1
+              },
+              {
+                "id": "note_74",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.9664959653712114,0.474619599510454",
+                "positionInStaff": 5,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 0,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_75",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.9748628445319794,0.4654205106918576",
+                "positionInStaff": 6,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 1,
+                "graphicalConnection": 1
+              },
+              {
+                "id": "note_76",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.9832747187464339,0.4566332925130932",
+                "positionInStaff": 7,
+                "noteType": 0,
+                "oct": 4,
+                "pname": 2,
+                "graphicalConnection": 1
+              },
+              {
+                "id": "note_77",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.9895185187855541,0.46597684815887086",
+                "positionInStaff": 6,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 1,
+                "graphicalConnection": 1
+              },
+              {
+                "id": "note_78",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "1.0075627305239163,0.4640897371057839",
+                "positionInStaff": 6,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 1,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_79",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "1.012447469564713,0.4725659810303593",
+                "positionInStaff": 5,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 0,
+                "graphicalConnection": 1
+              },
+              {
+                "id": "note_80",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "1.034053393623175,0.4694385035091756",
+                "positionInStaff": 5,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 0,
+                "graphicalConnection": 2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "page_0:block_4",
+        "coords": "",
+        "type": "music",
+        "lines": [
+          {
+            "id": "page_0:block_4:line_4",
+            "coords": "0.6988636363636364,0.5411720677727357 0.765625,0.5404618405000085 0.8323863636363636,0.5372658177727357 0.8977272727272727,0.5358453632272812 0.9375,0.5362004768636448 0.9857954545454546,0.534069795045463 1.0496686168973393,0.532520998223115 1.0554102614677907,0.5505673462051778 1.0506355287238534,0.5651270052960866 1.0546144726771345,0.5867244896417856 1.0213068181818181,0.5880892958636279 0.8011363636363636,0.5951915685909007 0.7613636363636364,0.5948364549545371 0.6988636363636364,0.5962569094999915 0.6988636363636364,0.5763494318181819 0.6988636363636364,0.5617897727272727",
+            "reconstructed": false,
+            "staffLines": [
+              {
+                "id": "page_0:block_4:line_4:sl_16",
+                "coords": "0.6988636363636364,0.5479403409090909 0.765625,0.5472301136363636 0.8323863636363636,0.5440340909090909 0.8977272727272727,0.5426136363636364 0.9375,0.54296875 0.9857954545454546,0.5408380681818182 1.0496686168973393,0.5392892713594702",
+                "highlighted": false,
+                "space": false
+              },
+              {
+                "id": "page_0:block_4:line_4:sl_17",
+                "coords": "0.6988636363636364,0.5617897727272727 0.7713068181818182,0.5610795454545455 0.8473011363636364,0.5582386363636364 0.9076704545454546,0.5568181818181819 0.9588068181818182,0.5553977272727273 1.0554102614677907,0.5505673462051778",
+                "highlighted": false,
+                "space": false
+              },
+              {
+                "id": "page_0:block_4:line_4:sl_18",
+                "coords": "0.6985404204525293,0.5747333522626459 0.7623843635718421,0.5740231249899186 0.7926136363636364,0.5738636363636364 0.8259943181818182,0.5724431818181819 0.9204545454545455,0.5710227272727273 1.0506355287238534,0.5651270052960866",
+                "highlighted": false,
+                "space": false
+              },
+              {
+                "id": "page_0:block_4:line_4:sl_19",
+                "coords": "0.6988636363636364,0.5894886363636364 0.7613636363636364,0.5880681818181819 0.8011363636363636,0.5884232954545455 1.0213068181818181,0.5813210227272727 1.0546144726771345,0.5799562165054304",
+                "highlighted": false,
+                "space": false
+              }
+            ],
+            "symbols": [
+              {
+                "id": "clef_5",
+                "type": "clef",
+                "fixedSorting": false,
+                "coord": "0.7049133954066255,0.5615881446224763",
+                "positionInStaff": 7,
+                "clefType": "c"
+              },
+              {
+                "id": "note_81",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.718849441567355,0.583702502027828",
+                "positionInStaff": 4,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 6,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_82",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.7197857234414295,0.5721531223683064",
+                "positionInStaff": 5,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 0,
+                "graphicalConnection": 1
+              },
+              {
+                "id": "note_83",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.7402160909462653,0.5716594385973014",
+                "positionInStaff": 5,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 0,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_84",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.7458987033455119,0.5817035604269647",
+                "positionInStaff": 4,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 6,
+                "graphicalConnection": 1
+              },
+              {
+                "id": "note_85",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.7654366909686059,0.5762907305460496",
+                "positionInStaff": 5,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 0,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_86",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.7660058027079303,0.5672330614956345",
+                "positionInStaff": 6,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 1,
+                "graphicalConnection": 1
+              },
+              {
+                "id": "note_87",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.7944695178737733,0.5724263915753278",
+                "positionInStaff": 5,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 0,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_88",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.8532129808725553,0.5715667311411993",
+                "positionInStaff": 5,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 0,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_89",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.8943768996960487,0.5730174081237911",
+                "positionInStaff": 5,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 0,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_90",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.8963859090164702,0.5622756802930886",
+                "positionInStaff": 6,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 1,
+                "graphicalConnection": 1
+              },
+              {
+                "id": "note_91",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.9055968053909028,0.556467211580458",
+                "positionInStaff": 7,
+                "noteType": 0,
+                "oct": 4,
+                "pname": 2,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_92",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.9176499032882012,0.5615087040618956",
+                "positionInStaff": 6,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 1,
+                "graphicalConnection": 0
+              },
+              {
+                "id": "note_93",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.927852998065764,0.5698646034816248",
+                "positionInStaff": 5,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 0,
+                "graphicalConnection": 0
+              },
+              {
+                "id": "note_94",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.9419790411303952,0.5671212811324031",
+                "positionInStaff": 5,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 0,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_95",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.9496062448190108,0.5764368610113292",
+                "positionInStaff": 4,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 6,
+                "graphicalConnection": 1
+              },
+              {
+                "id": "note_96",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.9828556356602778,0.5676542992790575",
+                "positionInStaff": 5,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 0,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_97",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "1.0139023210831721,0.5505016924564797",
+                "positionInStaff": 7,
+                "noteType": 0,
+                "oct": 4,
+                "pname": 2,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_98",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "1.0210002763194252,0.5600649350649352",
+                "positionInStaff": 6,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 1,
+                "graphicalConnection": 1
+              },
+              {
+                "id": "note_99",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "1.0314615570599612,0.5547932785299806",
+                "positionInStaff": 7,
+                "noteType": 0,
+                "oct": 4,
+                "pname": 2,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_100",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "1.0391279819471309,0.5442033112415124",
+                "positionInStaff": 8,
+                "noteType": 0,
+                "oct": 4,
+                "pname": 3,
+                "graphicalConnection": 1
+              },
+              {
+                "id": "note_101",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "1.0454545454545454,0.5544561821157565",
+                "positionInStaff": 7,
+                "noteType": 0,
+                "oct": 4,
+                "pname": 2,
+                "graphicalConnection": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "page_0:block_5",
+        "coords": "",
+        "type": "music",
+        "lines": [
+          {
+            "id": "page_0:block_5:line_5",
+            "coords": "",
+            "reconstructed": false,
+            "staffLines": [
+              {
+                "id": "page_0:block_5:line_5:sl_20",
+                "coords": "0.6944746818262469,0.6417860340848602 0.7725996818262469,0.6396553522666784 0.9125144545535198,0.6368144431757694 0.9501565000080651,0.637169556812133 0.9748559597254589,0.635166897916128",
+                "highlighted": false,
+                "space": false
+              },
+              {
+                "id": "page_0:block_5:line_5:sl_21",
+                "coords": "0.6974431818181819,0.6558948863636364 0.8224431818181819,0.6534090909090909 0.8835227272727273,0.6519886363636364 0.9638549205170506,0.6495985340848602",
+                "highlighted": false,
+                "space": false
+              },
+              {
+                "id": "page_0:block_5:line_5:sl_22",
+                "coords": "0.6999013182060136,0.6695167954464801 0.7720170454545455,0.6669034090909091 0.9101285909332865,0.6646089999879022 0.9719470165254941,0.663415012490048",
+                "highlighted": false,
+                "space": false
+              },
+              {
+                "id": "page_0:block_5:line_5:sl_23",
+                "coords": "0.6988636363636364,0.6839488636363636 0.7769886363636364,0.6814630681818182 0.8203125,0.6803977272727273 0.9573863636363636,0.6786221590909091 0.9735630960810302,0.6778394139726188",
+                "highlighted": false,
+                "space": false
+              }
+            ],
+            "symbols": [
+              {
+                "id": "clef_6",
+                "type": "clef",
+                "fixedSorting": false,
+                "coord": "0.7094635193812872,0.6554633749202634",
+                "positionInStaff": 7,
+                "clefType": "c"
+              },
+              {
+                "id": "note_102",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.7242987542555551,0.6555429309678573",
+                "positionInStaff": 7,
+                "noteType": 0,
+                "oct": 4,
+                "pname": 2,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_103",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.7358158504349308,0.6608527342913068",
+                "positionInStaff": 6,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 1,
+                "graphicalConnection": 0
+              },
+              {
+                "id": "note_104",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.7451907049710756,0.6690762909019601",
+                "positionInStaff": 5,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 0,
+                "graphicalConnection": 0
+              },
+              {
+                "id": "note_105",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.7543825916215365,0.6619225465190756",
+                "positionInStaff": 6,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 1,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_106",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.7703141501711254,0.6651140831183784",
+                "positionInStaff": 5,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 0,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_107",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.7795581728320231,0.6750602406058823",
+                "positionInStaff": 4,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 6,
+                "graphicalConnection": 1
+              },
+              {
+                "id": "note_108",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.8383828479916331,0.672190744256633",
+                "positionInStaff": 4,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 6,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_109",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.8593455686386365,0.6732713545891308",
+                "positionInStaff": 4,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 6,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_110",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.9079856313898867,0.6640765434519724",
+                "positionInStaff": 5,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 0,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_111",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.9089034702918417,0.6516373517648152",
+                "positionInStaff": 7,
+                "noteType": 0,
+                "oct": 4,
+                "pname": 2,
+                "graphicalConnection": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "page_0:block_6",
+        "coords": "",
+        "type": "music",
+        "lines": [
+          {
+            "id": "page_0:block_6:line_6",
+            "coords": "0.1875,0.16972320413637212 0.23082386363636365,0.16865786322728124 0.2741477272727273,0.16972320413637212 0.3153409090909091,0.16794763595455395 0.35511363636363635,0.1683027495909176 0.38920454545454547,0.16652718140909942 0.46590909090909094,0.16510672686364486 0.53125,0.1654618405000085 0.5553977272727273,0.16404138595455395 0.5596590909090909,0.18536931818181818 0.5610795454545455,0.19921875 0.5610795454545455,0.2201915685909006 0.4857954545454546,0.21983645495453696 0.4147727272727273,0.22161202313635514 0.37855113636363635,0.2212569094999915 0.2741477272727273,0.22445293222726423 0.1903409090909091,0.22480804586362788 0.1875,0.20490056818181818 0.18892045454545456,0.1903409090909091",
+            "reconstructed": false,
+            "staffLines": [
+              {
+                "id": "page_0:block_6:line_6:sl_24",
+                "coords": "0.18749999999999994,0.17649147727272727 0.2308238636363636,0.17542613636363638 0.31534090909090906,0.1747159090909091 0.3892045454545454,0.17329545454545456 0.4659090909090909,0.171875 0.5563673750060487,0.16919357953537306",
+                "highlighted": false,
+                "space": false
+              },
+              {
+                "id": "page_0:block_6:line_6:sl_25",
+                "coords": "0.18892045454545456,0.1906641250020163 0.24760989772122385,0.1890480454464803 0.2791193181818182,0.18924367045656176 0.36434659090909094,0.1875956931757693 0.45732256818585076,0.18478668181011668 0.5561037158869118,0.1847228863596038",
+                "highlighted": false,
+                "space": false
+              },
+              {
+                "id": "page_0:block_6:line_6:sl_26",
+                "coords": "0.1881464318222144,0.20296127271517497 0.23366477272727273,0.203125 0.2741477272727273,0.20348011363636365 0.3733372952004923,0.2009305227313053 0.5494380556740432,0.19763926973615764",
+                "highlighted": false,
+                "space": false
+              },
+              {
+                "id": "page_0:block_6:line_6:sl_27",
+                "coords": "0.1903409090909091,0.21843202322511984 0.27493222826842145,0.21690015809521496 0.386003895822731,0.2137041353679422 0.4857954545454546,0.2134604323160289 0.5544112869911451,0.21146204296531004",
+                "highlighted": false,
+                "space": false
+              }
+            ],
+            "symbols": [
+              {
+                "id": "clef_7",
+                "type": "clef",
+                "fixedSorting": false,
+                "coord": "0.19611699200720853,0.1900790178295453",
+                "positionInStaff": 7,
+                "clefType": "c"
+              },
+              {
+                "id": "note_112",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.21322414628470274,0.20920319905589954",
+                "positionInStaff": 4,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 6,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_113",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.2718285969349799,0.20845539621317036",
+                "positionInStaff": 4,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 6,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_114",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.33396306454751096,0.20830947381815867",
+                "positionInStaff": 4,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 6,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_115",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.3539581894737378,0.19302889781613186",
+                "positionInStaff": 6,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 1,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_116",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.38960141513333,0.18891444979824684",
+                "positionInStaff": 7,
+                "noteType": 0,
+                "oct": 4,
+                "pname": 2,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_117",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.3905033319108605,0.1778725366286741",
+                "positionInStaff": 8,
+                "noteType": 0,
+                "oct": 4,
+                "pname": 3,
+                "graphicalConnection": 1
+              },
+              {
+                "id": "note_118",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.41969741478743117,0.17884158637022793",
+                "positionInStaff": 8,
+                "noteType": 0,
+                "oct": 4,
+                "pname": 3,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_119",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.4274512721321232,0.1686716720268275",
+                "positionInStaff": 9,
+                "noteType": 0,
+                "oct": 4,
+                "pname": 4,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_120",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.43479138610071505,0.17908421365868177",
+                "positionInStaff": 8,
+                "noteType": 0,
+                "oct": 4,
+                "pname": 3,
+                "graphicalConnection": 1
+              },
+              {
+                "id": "note_121",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.450725525955505,0.17788340673379333",
+                "positionInStaff": 8,
+                "noteType": 0,
+                "oct": 4,
+                "pname": 3,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_122",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.48236521181799774,0.17298299793140753",
+                "positionInStaff": 9,
+                "noteType": 0,
+                "oct": 4,
+                "pname": 4,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_123",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.4835982601813878,0.1629936442348521",
+                "positionInStaff": 10,
+                "noteType": 0,
+                "oct": 4,
+                "pname": 5,
+                "graphicalConnection": 1
+              },
+              {
+                "id": "note_124",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.517431737703762,0.1702109242038132",
+                "positionInStaff": 9,
+                "noteType": 0,
+                "oct": 4,
+                "pname": 4,
+                "graphicalConnection": 2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "page_0:block_7",
+        "coords": "",
+        "type": "music",
+        "lines": [
+          {
+            "id": "page_0:block_7:line_7",
+            "coords": "0.1875,0.26347320413637215 0.2080965909090909,0.2624078632272812 0.22869318181818182,0.2631180905000085 0.27982954545454547,0.261697635954554 0.32954545454545453,0.26205274959091757 0.5610795454545455,0.25885672686364486 0.5610795454545455,0.27982954545454547 0.5610795454545455,0.2936789772727273 0.5582386363636364,0.31216600040908243 0.5568181818181819,0.31358645495453696 0.5355113636363636,0.31536202313635514 0.1875,0.31820293222726426 0.1875,0.29829545454545453 0.1875,0.28373579545454547",
+            "reconstructed": false,
+            "staffLines": [
+              {
+                "id": "page_0:block_7:line_7:sl_28",
+                "coords": "0.19428753413325128,0.2689486136282985 0.27982954545454547,0.2684659090909091 0.32954545454545453,0.2688210227272727 0.5610795454545455,0.265625",
+                "highlighted": false,
+                "space": false
+              },
+              {
+                "id": "page_0:block_7:line_7:sl_29",
+                "coords": "0.1875,0.2830893636323311 0.5610795454545455,0.2791831136323311",
+                "highlighted": false,
+                "space": false
+              },
+              {
+                "id": "page_0:block_7:line_7:sl_30",
+                "coords": "0.1875,0.29829545454545453 0.26207386363636365,0.29616477272727276 0.3322587727353379,0.2949357045333567 0.4639059999919348,0.29371087499798376 0.5610795454545455,0.2914164658949769",
+                "highlighted": false,
+                "space": false
+              },
+              {
+                "id": "page_0:block_7:line_7:sl_31",
+                "coords": "0.1875,0.3114346590909091 0.4396104404546334,0.30788620203147926 0.5582386363636364,0.3053977272727273",
+                "highlighted": false,
+                "space": false
+              }
+            ],
+            "symbols": [
+              {
+                "id": "clef_8",
+                "type": "clef",
+                "fixedSorting": false,
+                "coord": "0.19809586029457643,0.2840828505923847",
+                "positionInStaff": 7,
+                "clefType": "c"
+              },
+              {
+                "id": "note_125",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.21192935673279506,0.2827405669154336",
+                "positionInStaff": 7,
+                "noteType": 0,
+                "oct": 4,
+                "pname": 2,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_126",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.24136200309037326,0.26843809527305024",
+                "positionInStaff": 9,
+                "noteType": 0,
+                "oct": 4,
+                "pname": 4,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_127",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.28315121458345494,0.2735504803386221",
+                "positionInStaff": 8,
+                "noteType": 0,
+                "oct": 4,
+                "pname": 3,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_128",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.30259836180424776,0.2601954357730672",
+                "positionInStaff": 10,
+                "noteType": 0,
+                "oct": 4,
+                "pname": 5,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_129",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.32658658567143883,0.28483017795171184",
+                "positionInStaff": 7,
+                "noteType": 0,
+                "oct": 4,
+                "pname": 2,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_130",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.3276720978980769,0.27353415615785265",
+                "positionInStaff": 8,
+                "noteType": 0,
+                "oct": 4,
+                "pname": 3,
+                "graphicalConnection": 1
+              },
+              {
+                "id": "note_131",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.3618411394007906,0.2809757614907197",
+                "positionInStaff": 7,
+                "noteType": 0,
+                "oct": 4,
+                "pname": 2,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_132",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.4042142787788922,0.28898226221860235",
+                "positionInStaff": 6,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 1,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_133",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.40544008689986755,0.27736339411595856",
+                "positionInStaff": 7,
+                "noteType": 0,
+                "oct": 4,
+                "pname": 2,
+                "graphicalConnection": 1
+              },
+              {
+                "id": "note_134",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.43397669793567895,0.29389323583679433",
+                "positionInStaff": 5,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 0,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_135",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.4455722946138018,0.29924035276033195",
+                "positionInStaff": 4,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 6,
+                "graphicalConnection": 0
+              },
+              {
+                "id": "note_136",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.4574179467869895,0.30738169446011726",
+                "positionInStaff": 3,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 5,
+                "graphicalConnection": 0
+              },
+              {
+                "id": "note_137",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.48521922501215314,0.30820986542612994",
+                "positionInStaff": 3,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 5,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_138",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.48640490990878343,0.29293743961647484",
+                "positionInStaff": 5,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 0,
+                "graphicalConnection": 1
+              },
+              {
+                "id": "note_139",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.5079476051505882,0.29249146122713054",
+                "positionInStaff": 5,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 0,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_140",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.5321011879796872,0.30032586498697006",
+                "positionInStaff": 4,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 6,
+                "graphicalConnection": 2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "page_0:block_8",
+        "coords": "",
+        "type": "music",
+        "lines": [
+          {
+            "id": "page_0:block_8:line_8",
+            "coords": "",
+            "reconstructed": false,
+            "staffLines": [
+              {
+                "id": "page_0:block_8:line_8:sl_32",
+                "coords": "0.1903409090909091,0.36470170454545453 0.20880681818181818,0.36434659090909094 0.34005994777104803,0.3632173459645614",
+                "highlighted": false,
+                "space": false
+              },
+              {
+                "id": "page_0:block_8:line_8:sl_33",
+                "coords": "0.1903409090909091,0.37825981817778564 0.34005994777104803,0.37654863829410007",
+                "highlighted": false,
+                "space": false
+              },
+              {
+                "id": "page_0:block_8:line_8:sl_34",
+                "coords": "0.19066412500201627,0.3921411477212239 0.3403831636821552,0.39032788722528394",
+                "highlighted": false,
+                "space": false
+              },
+              {
+                "id": "page_0:block_8:line_8:sl_35",
+                "coords": "0.1903409090909091,0.40625 0.34005994777104803,0.40492505275504304",
+                "highlighted": false,
+                "space": false
+              }
+            ],
+            "symbols": [
+              {
+                "id": "clef_9",
+                "type": "clef",
+                "fixedSorting": false,
+                "coord": "0.1996029426353992,0.3781159714216766",
+                "positionInStaff": 7,
+                "clefType": "c"
+              },
+              {
+                "id": "note_141",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.2137286115151282,0.397442600780759",
+                "positionInStaff": 4,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 6,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_142",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.24762024539139066,0.3702817820434739",
+                "positionInStaff": 8,
+                "noteType": 0,
+                "oct": 4,
+                "pname": 3,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_143",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.26177253392046096,0.371393339235558",
+                "positionInStaff": 8,
+                "noteType": 0,
+                "oct": 4,
+                "pname": 3,
+                "graphicalConnection": 0
+              },
+              {
+                "id": "note_144",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.28102356522815874,0.37091856994632816",
+                "positionInStaff": 8,
+                "noteType": 0,
+                "oct": 4,
+                "pname": 3,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_145",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.28196060027691827,0.36004038489083384",
+                "positionInStaff": 9,
+                "noteType": 0,
+                "oct": 4,
+                "pname": 4,
+                "graphicalConnection": 1
+              },
+              {
+                "id": "note_146",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.2929613714452379,0.36943611552601263",
+                "positionInStaff": 8,
+                "noteType": 0,
+                "oct": 4,
+                "pname": 3,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_147",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.30449343370295884,0.37761675749557944",
+                "positionInStaff": 7,
+                "noteType": 0,
+                "oct": 4,
+                "pname": 2,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_148",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.3203802985660155,0.38283764000358644",
+                "positionInStaff": 6,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 1,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_149",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.3282052595847157,0.3927533647133478",
+                "positionInStaff": 5,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 0,
+                "graphicalConnection": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "page_0:block_9",
+        "coords": "",
+        "type": "music",
+        "lines": [
+          {
+            "id": "page_0:block_9:line_9",
+            "coords": "0.2727272727272727,0.45168343140909945 0.34801136363636365,0.4523936586818267 0.5610795454545455,0.4506180905000085 0.5610795454545455,0.4715909090909091 0.5610795454545455,0.4850852272727273 0.5639204545454546,0.5057029322272643 0.36363636363636365,0.5067682731363552 0.31676136363636365,0.5060580458636279 0.26988636363636365,0.5071233867727188 0.2713068181818182,0.4865056818181818 0.26704545454545453,0.47301136363636365",
+            "reconstructed": false,
+            "staffLines": [
+              {
+                "id": "page_0:block_9:line_9:sl_36",
+                "coords": "0.27531300001613035,0.45748205681213294 0.3505970909252213,0.4581922840848602 0.5636652727434032,0.456416715903042",
+                "highlighted": false,
+                "space": false
+              },
+              {
+                "id": "page_0:block_9:line_9:sl_37",
+                "coords": "0.2696311818343121,0.4717184999919348 0.5636652727434031,0.47029804544648035",
+                "highlighted": false,
+                "space": false
+              },
+              {
+                "id": "page_0:block_9:line_9:sl_38",
+                "coords": "0.2722764659151398,0.48488960226264577 0.5364810113696852,0.4845344886262822 0.562049193187867,0.4834691477171913",
+                "highlighted": false,
+                "space": false
+              },
+              {
+                "id": "page_0:block_9:line_9:sl_39",
+                "coords": "0.2702095795474709,0.4997086818141492 0.3170845795474709,0.4986433409050583 0.3639595795474709,0.4993535681777856 0.5642436704565619,0.4982882272686947",
+                "highlighted": false,
+                "space": false
+              }
+            ],
+            "symbols": [
+              {
+                "id": "clef_10",
+                "type": "clef",
+                "fixedSorting": false,
+                "coord": "0.27715557599503443,0.472557524269892",
+                "positionInStaff": 7,
+                "clefType": "c"
+              },
+              {
+                "id": "note_150",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.2876361748389283,0.48570468955325025",
+                "positionInStaff": 5,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 0,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_151",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.29800854652231373,0.48452283011106545",
+                "positionInStaff": 5,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 0,
+                "graphicalConnection": 0
+              },
+              {
+                "id": "note_152",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.33066894264080404,0.4853411229916344",
+                "positionInStaff": 5,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 0,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_153",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.3395115106003717,0.4704877308757159",
+                "positionInStaff": 7,
+                "noteType": 0,
+                "oct": 4,
+                "pname": 2,
+                "graphicalConnection": 1
+              },
+              {
+                "id": "note_154",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.3460138109700062,0.48666883804555894",
+                "positionInStaff": 5,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 0,
+                "graphicalConnection": 1
+              },
+              {
+                "id": "note_155",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.35769336310453886,0.4829476273560791",
+                "positionInStaff": 5,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 0,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_156",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.3653616884285655,0.4925024097087002",
+                "positionInStaff": 4,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 6,
+                "graphicalConnection": 1
+              },
+              {
+                "id": "note_157",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.40074090099512505,0.4843595468986583",
+                "positionInStaff": 5,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 0,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_158",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.43801589708237726,0.4765955902302807",
+                "positionInStaff": 6,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 1,
+                "graphicalConnection": 1
+              },
+              {
+                "id": "note_159",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.48320520338427336,0.4842716251689006",
+                "positionInStaff": 5,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 0,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_160",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.5064730013415871,0.470060602726435",
+                "positionInStaff": 7,
+                "noteType": 0,
+                "oct": 4,
+                "pname": 2,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_161",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.5230768458516378,0.47067897500423456",
+                "positionInStaff": 7,
+                "noteType": 0,
+                "oct": 4,
+                "pname": 2,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_162",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.5333353151531047,0.4709872148480754",
+                "positionInStaff": 7,
+                "noteType": 0,
+                "oct": 4,
+                "pname": 2,
+                "graphicalConnection": 0
+              },
+              {
+                "id": "note_163",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.5425216074669196,0.47761380045991997",
+                "positionInStaff": 6,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 1,
+                "graphicalConnection": 0
+              },
+              {
+                "id": "note_164",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.5500145533360129,0.483244476072049",
+                "positionInStaff": 5,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 0,
+                "graphicalConnection": 0
+              },
+              {
+                "id": "note_165",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.5579726083810137,0.4921427133567309",
+                "positionInStaff": 4,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 6,
+                "graphicalConnection": 0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "page_0:block_10",
+        "coords": "",
+        "type": "music",
+        "lines": [
+          {
+            "id": "page_0:block_10:line_10",
+            "coords": "0.1903409090909091,0.5447232041363721 0.4481534090909091,0.5429476359545539 0.5610795454545455,0.5429476359545539 0.5639204545454546,0.5440129768636448 0.5667613636363636,0.5635653409090909 0.5610795454545455,0.5777698863636364 0.5610795454545455,0.5959017958636279 0.5582386363636364,0.5976773640454461 0.5355113636363636,0.5994529322272643 0.5099431818181819,0.5983875913181734 0.4637784090909091,0.5994529322272643 0.3103693181818182,0.5990978185909007 0.1903409090909091,0.6001631594999915 0.19460227272727273,0.5795454545454546 0.19602272727272727,0.5649857954545455",
+            "reconstructed": false,
+            "staffLines": [
+              {
+                "id": "page_0:block_10:line_10:sl_40",
+                "coords": "0.1903409090909091,0.5514914772727273 0.4481534090909091,0.5497159090909091 0.5610795454545455,0.5497159090909091",
+                "highlighted": false,
+                "space": false
+              },
+              {
+                "id": "page_0:block_10:line_10:sl_41",
+                "coords": "0.19602272727272727,0.5643393636323312 0.5667613636363636,0.5629189090868766",
+                "highlighted": false,
+                "space": false
+              },
+              {
+                "id": "page_0:block_10:line_10:sl_42",
+                "coords": "0.19395584090505838,0.578575806812133 0.3182456136323311,0.5771553522666784 0.5604331136323312,0.5768002386303148",
+                "highlighted": false,
+                "space": false
+              },
+              {
+                "id": "page_0:block_10:line_10:sl_43",
+                "coords": "0.1903409090909091,0.5933948863636364 0.3093996704484966,0.5913598977212239 0.46248554544648035,0.5900989318020514 0.5099431818181819,0.5916193181818182 0.5582386363636364,0.5909090909090909",
+                "highlighted": false,
+                "space": false
+              }
+            ],
+            "symbols": [
+              {
+                "id": "clef_11",
+                "type": "clef",
+                "fixedSorting": false,
+                "coord": "0.19863746786693112,0.5637946023078061",
+                "positionInStaff": 7,
+                "clefType": "c"
+              },
+              {
+                "id": "note_166",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.22042490796780434,0.5813252636176454",
+                "positionInStaff": 5,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 0,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_167",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.22108317214700193,0.569463249516441",
+                "positionInStaff": 6,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 1,
+                "graphicalConnection": 1
+              },
+              {
+                "id": "note_168",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.25101547388781426,0.5780650200862967",
+                "positionInStaff": 5,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 0,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_169",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.2886202450032237,0.5779497098646035",
+                "positionInStaff": 5,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 0,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_170",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.28885396518375245,0.5649177949709865",
+                "positionInStaff": 7,
+                "noteType": 0,
+                "oct": 4,
+                "pname": 2,
+                "graphicalConnection": 1
+              },
+              {
+                "id": "note_171",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.29947439239761164,0.5575056765621058",
+                "positionInStaff": 8,
+                "noteType": 0,
+                "oct": 4,
+                "pname": 3,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_172",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.31056261037759647,0.5618577075098815",
+                "positionInStaff": 7,
+                "noteType": 0,
+                "oct": 4,
+                "pname": 2,
+                "graphicalConnection": 0
+              },
+              {
+                "id": "note_173",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.31936515481542804,0.5697596976161362",
+                "positionInStaff": 6,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 1,
+                "graphicalConnection": 0
+              },
+              {
+                "id": "note_174",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.3478856799839925,0.5688588007736943",
+                "positionInStaff": 6,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 1,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_175",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.3546311135672838,0.5793534125449018",
+                "positionInStaff": 5,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 0,
+                "graphicalConnection": 1
+              },
+              {
+                "id": "note_176",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.3796404988994864,0.5800240112052291",
+                "positionInStaff": 5,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 0,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_177",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.38104952057486147,0.5696626940487821",
+                "positionInStaff": 6,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 1,
+                "graphicalConnection": 1
+              },
+              {
+                "id": "note_178",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.39141199226305606,0.5630793036750484",
+                "positionInStaff": 7,
+                "noteType": 0,
+                "oct": 4,
+                "pname": 2,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_179",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.4130255522752723,0.5733024534256338",
+                "positionInStaff": 5,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 0,
+                "graphicalConnection": 1
+              },
+              {
+                "id": "note_180",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.4140327838854024,0.5603720447418755",
+                "positionInStaff": 7,
+                "noteType": 0,
+                "oct": 4,
+                "pname": 2,
+                "graphicalConnection": 1
+              },
+              {
+                "id": "note_181",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.4368471953578337,0.5683802749268922",
+                "positionInStaff": 6,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 1,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_182",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.44361702127659575,0.5781753707285623",
+                "positionInStaff": 5,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 0,
+                "graphicalConnection": 1
+              },
+              {
+                "id": "note_183",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.49443907156673117,0.5766344294003869",
+                "positionInStaff": 5,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 0,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_184",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.5374450501142958,0.5604448742746615",
+                "positionInStaff": 7,
+                "noteType": 0,
+                "oct": 4,
+                "pname": 2,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_185",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.5454144454403925,0.5717460017927066",
+                "positionInStaff": 6,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 1,
+                "graphicalConnection": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "page_0:block_11",
+        "coords": "",
+        "type": "music",
+        "lines": [
+          {
+            "id": "page_0:block_11:line_11",
+            "coords": "0.1875,0.6406038859545539 0.37855113636363635,0.6388283177727357 0.5653409090909091,0.6388283177727357 0.5639204545454546,0.66015625 0.5610795454545455,0.6747159090909091 0.5582386363636364,0.6946233867727188 0.5291193181818182,0.6956887276818098 0.49857954545454547,0.6935580458636279 0.47230113636363635,0.6935580458636279 0.44460227272727276,0.6946233867727188 0.3203125,0.6939131594999915 0.1903409090909091,0.6953336140454461 0.1903409090909091,0.6747159090909091 0.1875,0.6608664772727273",
+            "reconstructed": false,
+            "staffLines": [
+              {
+                "id": "page_0:block_11:line_11:sl_44",
+                "coords": "0.1875,0.6473721590909091 0.37855113636363635,0.6455965909090909 0.5653409090909091,0.6455965909090909",
+                "highlighted": false,
+                "space": false
+              },
+              {
+                "id": "page_0:block_11:line_11:sl_45",
+                "coords": "0.19008572728885761,0.6598968295394056 0.41827814200995767,0.65857546586692 0.5639204545454546,0.66015625",
+                "highlighted": false,
+                "space": false
+              },
+              {
+                "id": "page_0:block_11:line_11:sl_46",
+                "coords": "0.1913105568242307,0.6730998295353731 0.4260681139549382,0.6716474772646621 0.5572009545212591,0.6734230454464802",
+                "highlighted": false,
+                "space": false
+              },
+              {
+                "id": "page_0:block_11:line_11:sl_47",
+                "coords": "0.19001769317980186,0.6875956931757694 0.31998928408889277,0.6861752386303148 0.49825632954343824,0.6858201249939512 0.5579154204525292,0.686885465903042",
+                "highlighted": false,
+                "space": false
+              }
+            ],
+            "symbols": [
+              {
+                "id": "clef_12",
+                "type": "clef",
+                "fixedSorting": false,
+                "coord": "0.19839185216754637,0.6603049675740095",
+                "positionInStaff": 7,
+                "clefType": "c"
+              },
+              {
+                "id": "note_186",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.21136718792687056,0.659935771344895",
+                "positionInStaff": 7,
+                "noteType": 0,
+                "oct": 4,
+                "pname": 2,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_187",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.24093804980930839,0.6615655290736431",
+                "positionInStaff": 7,
+                "noteType": 0,
+                "oct": 4,
+                "pname": 2,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_188",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.2490337298648974,0.6534574892011753",
+                "positionInStaff": 8,
+                "noteType": 0,
+                "oct": 4,
+                "pname": 3,
+                "graphicalConnection": 1
+              },
+              {
+                "id": "note_189",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.25644424615872896,0.6433009440268883",
+                "positionInStaff": 9,
+                "noteType": 0,
+                "oct": 4,
+                "pname": 4,
+                "graphicalConnection": 1
+              },
+              {
+                "id": "note_190",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.2642363046257745,0.6528137487387397",
+                "positionInStaff": 8,
+                "noteType": 0,
+                "oct": 4,
+                "pname": 3,
+                "graphicalConnection": 1
+              },
+              {
+                "id": "note_191",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.2844246114011286,0.6514871889810903",
+                "positionInStaff": 8,
+                "noteType": 0,
+                "oct": 4,
+                "pname": 3,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_192",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.2957371994515882,0.6579260383804199",
+                "positionInStaff": 7,
+                "noteType": 0,
+                "oct": 4,
+                "pname": 2,
+                "graphicalConnection": 0
+              },
+              {
+                "id": "note_193",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.30467221803319894,0.6656203214984319",
+                "positionInStaff": 6,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 1,
+                "graphicalConnection": 0
+              },
+              {
+                "id": "note_194",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.3160693210503885,0.6593197117223443",
+                "positionInStaff": 7,
+                "noteType": 0,
+                "oct": 4,
+                "pname": 2,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_195",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.32712530014434743,0.6651824609402552",
+                "positionInStaff": 6,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 1,
+                "graphicalConnection": 0
+              },
+              {
+                "id": "note_196",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.3373396376665225,0.6732262188912143",
+                "positionInStaff": 5,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 0,
+                "graphicalConnection": 0
+              },
+              {
+                "id": "note_197",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.3486042273702504,0.6652367692265407",
+                "positionInStaff": 6,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 1,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_198",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.372186752122742,0.6643041941229824",
+                "positionInStaff": 6,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 1,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_199",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.37943323121830147,0.6740211345332153",
+                "positionInStaff": 5,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 0,
+                "graphicalConnection": 1
+              },
+              {
+                "id": "note_200",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.42102347856494987,0.6721449529554471",
+                "positionInStaff": 5,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 0,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_201",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.44789674603955165,0.675551949352887",
+                "positionInStaff": 5,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 0,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_202",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.4487235504572471,0.6648636229890279",
+                "positionInStaff": 6,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 1,
+                "graphicalConnection": 1
+              },
+              {
+                "id": "note_203",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.45909180799773264,0.6579638385647948",
+                "positionInStaff": 7,
+                "noteType": 0,
+                "oct": 4,
+                "pname": 2,
+                "graphicalConnection": 2
+              },
+              {
+                "id": "note_204",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.4690817296659345,0.6646719630491719",
+                "positionInStaff": 6,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 1,
+                "graphicalConnection": 0
+              },
+              {
+                "id": "note_205",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.4771129069271875,0.6719209312745195",
+                "positionInStaff": 5,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 0,
+                "graphicalConnection": 0
+              },
+              {
+                "id": "note_206",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.4877561769880558,0.6802041329268159",
+                "positionInStaff": 4,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 6,
+                "graphicalConnection": 0
+              },
+              {
+                "id": "note_207",
+                "type": "note",
+                "fixedSorting": false,
+                "coord": "0.5127922220576758,0.6721517122303026",
+                "positionInStaff": 5,
+                "noteType": 0,
+                "oct": 3,
+                "pname": 0,
+                "graphicalConnection": 2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "page_0:block_12",
+        "coords": "",
+        "type": "lyrics",
+        "lines": [
+          {
+            "id": "page_0:block_12:line_12",
+            "coords": "0.6875,0.22445293222726423 0.7670454545454546,0.21983645495453696 0.828125,0.21877111404544605 0.8799715909090909,0.21557509131817332 0.9183238636363636,0.2141546367727188 0.9389204545454546,0.2145097504090824 0.9595170454545455,0.21273418222726423 1.0440340909090908,0.2102483867727188 1.0440340909090908,0.24891354504546304 1.03125,0.24891354504546304 0.9147727272727273,0.25175445413637215 0.8963068181818182,0.2531749086818267 0.8771306818181819,0.2531749086818267 0.8394886363636364,0.2563709314090994 0.8117897727272727,0.2560158177727358 0.7634943181818182,0.25743627231819033 0.6875,0.26154407330099133",
+            "reconstructed": false,
+            "sentence": {
+              "syllables": []
+            }
+          }
+        ]
+      },
+      {
+        "id": "page_0:block_13",
+        "coords": "",
+        "type": "lyrics",
+        "lines": [
+          {
+            "id": "page_0:block_13:line_13",
+            "coords": "0.6846590909090909,0.3157171367727188 0.8153409090909091,0.3107455458636279 0.8380681818181819,0.3107455458636279 0.8544034090909091,0.3093250913181733 0.8693181818181819,0.30968020495453696 0.9211647727272727,0.30648418222726426 0.9417613636363636,0.3068392958636279 0.9794034090909092,0.3047086140454461 1.015625,0.3047086140454461 1.03125,0.30364327313635514 1.03125,0.34342684992567585 0.9989774398498734,0.34479422686364486 0.8959944853044189,0.3469249086818267 0.8057956216680552,0.35118627231819033 0.6921592580316915,0.3540271814090994 0.6846590909090909,0.3540271814090994",
+            "reconstructed": false,
+            "sentence": {
+              "syllables": []
+            }
+          }
+        ]
+      },
+      {
+        "id": "page_0:block_14",
+        "coords": "",
+        "type": "lyrics",
+        "lines": [
+          {
+            "id": "page_0:block_14:line_14",
+            "coords": "0.6903409090909091,0.4094671367727188 0.7073863636363636,0.4101773640454461 0.7201704545454546,0.4084017958636279 0.7684659090909091,0.4076915685909006 0.7883522727272727,0.40591600040908243 0.8423295454545455,0.4044955458636279 0.8586647727272727,0.4030750913181733 0.8955965909090909,0.4016546367727188 0.9161931818181819,0.40200975040908243 0.9353693181818182,0.40023418222726426 0.953125,0.4005892958636279 0.9659090909090909,0.39810350040908243 0.9971590909090909,0.3977483867727188 1.0497506916844177,0.3971507549457263 1.0497506916844177,0.437478885954554 1.046875,0.437478885954554 0.9872159090909092,0.43854422686364486 0.8139204545454546,0.445291385954554 0.7890625,0.44493627231819033 0.7627840909090909,0.4467118405000085 0.7464488636363636,0.44635672686364486 0.7123579545454546,0.4495527495909176 0.6931818181818182,0.4484874086818267 0.6903409090909091,0.4484874086818267",
+            "reconstructed": false,
+            "sentence": {
+              "syllables": []
+            }
+          }
+        ]
+      },
+      {
+        "id": "page_0:block_15",
+        "coords": "",
+        "type": "lyrics",
+        "lines": [
+          {
+            "id": "page_0:block_15:line_15",
+            "coords": "0.6931818181818182,0.5035722504090825 0.8473011363636364,0.4982455458636279 0.8707386363636364,0.4986006594999915 0.9268465909090909,0.49504952313635514 1.0482954545454546,0.4929188413181733 1.0482954545454546,0.5325542946720281 0.9857954545454546,0.534069795045463 0.9375,0.5362004768636448 0.8977272727272727,0.5358453632272812 0.8323863636363636,0.5372658177727357 0.765625,0.5404618405000085 0.6988636363636364,0.5411720677727357 0.6931818181818182,0.5411720677727357",
+            "reconstructed": false,
+            "sentence": {
+              "syllables": []
+            }
+          }
+        ]
+      },
+      {
+        "id": "page_0:block_16",
+        "coords": "",
+        "type": "lyrics",
+        "lines": [
+          {
+            "id": "page_0:block_16:line_16",
+            "coords": "0.6988636363636364,0.5962569094999915 0.7613636363636364,0.5948364549545371 0.8011363636363636,0.5951915685909007 1.0213068181818181,0.5880892958636279 1.0546144726771345,0.5867244896417856 1.0546144726771345,0.6285300223181903 1.0071022727272727,0.6285300223181903 0.9751420454545455,0.6292402495909175 0.9488636363636364,0.6313709314090994 0.9112215909090909,0.6310158177727357 0.8011363636363636,0.6342118405000085 0.7713068181818182,0.6338567268636448 0.7400568181818182,0.6352771814090994 0.71875,0.6345669541363721 0.6988636363636364,0.6356717521161701",
+            "reconstructed": false,
+            "sentence": {
+              "syllables": []
+            }
+          }
+        ]
+      },
+      {
+        "id": "page_0:block_17",
+        "coords": "",
+        "type": "lyrics",
+        "lines": [
+          {
+            "id": "page_0:block_17:line_17",
+            "coords": "0.6988636363636364,0.6907171367727188 0.7514204545454546,0.6903620231363552 0.7769886363636364,0.6882313413181734 0.8203125,0.6871660004090825 0.9573863636363636,0.6853904322272643 0.9794034090909092,0.6843250913181734 1.0,0.6818392958636279 1.0056818181818181,0.6821944094999915 1.0056818181818181,0.7220078275565521 1.0,0.7216527139201885 0.9794034090909092,0.724138509374734 0.9573863636363636,0.7252038502838248 0.8203125,0.7269794184656431 0.7769886363636364,0.728044759374734 0.7514204545454546,0.7301754411929158 0.6988636363636364,0.7305305548292794",
+            "reconstructed": false,
+            "sentence": {
+              "syllables": []
+            }
+          }
+        ]
+      },
+      {
+        "id": "page_0:block_18",
+        "coords": "",
+        "type": "lyrics",
+        "lines": [
+          {
+            "id": "page_0:block_18:line_18",
+            "coords": "0.1903409090909091,0.22480804586362788 0.2741477272727273,0.22445293222726423 0.37855113636363635,0.2212569094999915 0.4147727272727273,0.22161202313635514 0.4857954545454546,0.21983645495453696 0.5610795454545455,0.2201915685909006 0.5610795454545455,0.25885672686364486 0.32954545454545453,0.26205274959091757 0.27982954545454547,0.261697635954554 0.22869318181818182,0.2631180905000085 0.2080965909090909,0.2624078632272812 0.1903409090909091,0.2633262605627044",
+            "reconstructed": false,
+            "sentence": {
+              "syllables": []
+            }
+          }
+        ]
+      },
+      {
+        "id": "page_0:block_19",
+        "coords": "",
+        "type": "lyrics",
+        "lines": [
+          {
+            "id": "page_0:block_19:line_19",
+            "coords": "0.1875,0.31820293222726426 0.5355113636363636,0.31536202313635514 0.5568181818181819,0.31358645495453696 0.5582386363636364,0.31216600040908243 0.5582386363636364,0.3561578632272812 0.35653409090909094,0.3561578632272812 0.2159090909090909,0.3586436586818267 0.20880681818181818,0.3575783177727358 0.1903409090909091,0.3579334314090994 0.1875,0.3579334314090994",
+            "reconstructed": false,
+            "sentence": {
+              "syllables": []
+            }
+          }
+        ]
+      },
+      {
+        "id": "page_0:block_20",
+        "coords": "",
+        "type": "lyrics",
+        "lines": [
+          {
+            "id": "page_0:block_20:line_20",
+            "coords": "0.1903409090909091,0.41301827313635514 0.35085227272727276,0.4115978185909006 0.35511363636363635,0.40911202313635514 0.35511363636363635,0.4523344730757661 0.34801136363636365,0.4523936586818267 0.2727272727272727,0.45168343140909945 0.1903409090909091,0.45168343140909945",
+            "reconstructed": false,
+            "sentence": {
+              "syllables": []
+            }
+          }
+        ]
+      },
+      {
+        "id": "page_0:block_21",
+        "coords": "",
+        "type": "lyrics",
+        "lines": [
+          {
+            "id": "page_0:block_21:line_21",
+            "coords": "0.26988636363636365,0.5071233867727188 0.31676136363636365,0.5060580458636279 0.36363636363636365,0.5067682731363552 0.5639204545454546,0.5057029322272643 0.5639204545454546,0.5440129768636448 0.5610795454545455,0.5429476359545539 0.4481534090909091,0.5429476359545539 0.26988636363636365,0.5441753704273814",
+            "reconstructed": false,
+            "sentence": {
+              "syllables": []
+            }
+          }
+        ]
+      },
+      {
+        "id": "page_0:block_22",
+        "coords": "",
+        "type": "lyrics",
+        "lines": [
+          {
+            "id": "page_0:block_22:line_22",
+            "coords": "0.1903409090909091,0.6001631594999915 0.3103693181818182,0.5990978185909007 0.4637784090909091,0.5994529322272643 0.5099431818181819,0.5983875913181734 0.5355113636363636,0.5994529322272643 0.5582386363636364,0.5976773640454461 0.5610795454545455,0.5959017958636279 0.5610795454545455,0.6388283177727357 0.37855113636363635,0.6388283177727357 0.1903409090909091,0.640577483453709",
+            "reconstructed": false,
+            "sentence": {
+              "syllables": []
+            }
+          }
+        ]
+      },
+      {
+        "id": "page_0:block_23",
+        "coords": "",
+        "type": "lyrics",
+        "lines": [
+          {
+            "id": "page_0:block_23:line_23",
+            "coords": "0.1903409090909091,0.6953336140454461 0.3203125,0.6939131594999915 0.44460227272727276,0.6946233867727188 0.47230113636363635,0.6935580458636279 0.49857954545454547,0.6935580458636279 0.5291193181818182,0.6956887276818098 0.5582386363636364,0.6946233867727188 0.5582386363636364,0.7348341348723029 0.5291193181818182,0.7358994757813938 0.49857954545454547,0.7337687939632119 0.47230113636363635,0.7337687939632119 0.44460227272727276,0.7348341348723029 0.3203125,0.7341239075995756 0.1903409090909091,0.7355443621450302",
+            "reconstructed": false,
+            "sentence": {
+              "syllables": []
+            }
+          }
+        ]
+      }
+    ],
+    "imageFilename": "color_norm.jpg",
+    "imageWidth": 5568,
+    "imageHeight": 4320,
+    "annotations": {
+      "connections": []
+    },
+    "comments": {
+      "comments": []
+    },
+    "readingOrder": {
+      "lyricsReadingOrder": [
+        "page_0:block_18:line_18",
+        "page_0:block_19:line_19",
+        "page_0:block_20:line_20",
+        "page_0:block_21:line_21",
+        "page_0:block_22:line_22",
+        "page_0:block_23:line_23",
+        "page_0:block_12:line_12",
+        "page_0:block_13:line_13",
+        "page_0:block_14:line_14",
+        "page_0:block_15:line_15",
+        "page_0:block_16:line_16",
+        "page_0:block_17:line_17"
+      ]
+    }
+  }
+}

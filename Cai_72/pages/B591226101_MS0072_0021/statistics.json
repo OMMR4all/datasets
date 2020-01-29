@@ -1,0 +1,14 @@
+{
+  "actions": {
+    "ReadingOrderAuto": 1
+  },
+  "toolTiming": {
+    "Lyrics": 3039
+  },
+  "actionHistory": [
+    {
+      "action": 602,
+      "time": 102206.0449999999
+    }
+  ]
+}
