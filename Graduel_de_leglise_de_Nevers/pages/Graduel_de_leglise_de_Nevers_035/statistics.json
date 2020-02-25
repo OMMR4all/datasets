@@ -1,6 +1,7 @@
 {
   "actions": {
     "Undo": 11,
+    "Unlocked": 1,
     "StaffLinesNewPoint": 27,
     "StaffLinesDelete": 2,
     "StaffLinesEditPoints": 44,
@@ -12,22 +13,22 @@
     "LayoutSelect": 4,
     "LayoutAutomatic": 1,
     "LayoutExtractCC": 91,
-    "SymbolsDrag": 112,
+    "SymbolsDrag": 128,
     "SymbolsDelete": 18,
     "SymbolsInsert": 13,
     "SymbolsChangeGraphicalConnection": 11,
-    "SymbolsChangeNeumeStart": 3,
+    "SymbolsChangeNeumeStart": 6,
     "SymbolsAutomatic": 1
   },
   "toolTiming": {
-    "View": 2000,
+    "View": 10229,
     "CreateStaffLines": 266495,
     "GroupStaffLines": 13964,
     "SplitStaffLines": 21847,
     "Layout": 84014,
     "LayoutExtractConnectedComponents": 192784,
     "LayoutLassoArea": 139374,
-    "Symbol": 327034
+    "Symbol": 485326
   },
   "actionHistory": [
     {
@@ -1657,6 +1658,86 @@
     {
       "action": 301,
       "time": 1684996.1000000003
+    },
+    {
+      "action": 5,
+      "time": 14232
+    },
+    {
+      "action": 301,
+      "time": 16733
+    },
+    {
+      "action": 301,
+      "time": 23346
+    },
+    {
+      "action": 301,
+      "time": 24318
+    },
+    {
+      "action": 301,
+      "time": 26949
+    },
+    {
+      "action": 308,
+      "time": 147597
+    },
+    {
+      "action": 308,
+      "time": 148671
+    },
+    {
+      "action": 308,
+      "time": 154886
+    },
+    {
+      "action": 301,
+      "time": 174372
+    },
+    {
+      "action": 301,
+      "time": 175323
+    },
+    {
+      "action": 301,
+      "time": 176474
+    },
+    {
+      "action": 301,
+      "time": 177821
+    },
+    {
+      "action": 301,
+      "time": 179785
+    },
+    {
+      "action": 301,
+      "time": 185066
+    },
+    {
+      "action": 301,
+      "time": 189058
+    },
+    {
+      "action": 301,
+      "time": 191048
+    },
+    {
+      "action": 301,
+      "time": 193951
+    },
+    {
+      "action": 301,
+      "time": 198892
+    },
+    {
+      "action": 301,
+      "time": 201949
+    },
+    {
+      "action": 301,
+      "time": 206671
     }
   ]
 }

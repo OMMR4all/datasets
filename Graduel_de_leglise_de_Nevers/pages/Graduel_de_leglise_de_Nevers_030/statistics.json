@@ -2,6 +2,7 @@
   "actions": {
     "Undefined": 1,
     "Undo": 1,
+    "Unlocked": 1,
     "PolylineSubtract": 2,
     "StaffLinesNewPoint": 16,
     "StaffLinesDelete": 1,
@@ -14,7 +15,7 @@
     "LayoutAutomatic": 1,
     "LayoutExtractCC": 7,
     "LayoutLassoArea": 6,
-    "SymbolsDrag": 69,
+    "SymbolsDrag": 83,
     "SymbolsDelete": 26,
     "SymbolsInsert": 16,
     "SymbolsChangeGraphicalConnection": 22,
@@ -22,13 +23,13 @@
     "SymbolsAutomatic": 1
   },
   "toolTiming": {
-    "View": 9197,
+    "View": 27308,
     "CreateStaffLines": 265355,
     "SplitStaffLines": 6473,
     "Layout": 50254,
     "LayoutExtractConnectedComponents": 38607,
     "LayoutLassoArea": 40226,
-    "Symbol": 226708
+    "Symbol": 299430
   },
   "actionHistory": [
     {
@@ -1150,6 +1151,66 @@
     {
       "action": 306,
       "time": 439298.5000000008
+    },
+    {
+      "action": 5,
+      "time": 19719
+    },
+    {
+      "action": 301,
+      "time": 25641
+    },
+    {
+      "action": 301,
+      "time": 31167
+    },
+    {
+      "action": 301,
+      "time": 34090
+    },
+    {
+      "action": 301,
+      "time": 42399
+    },
+    {
+      "action": 301,
+      "time": 51395
+    },
+    {
+      "action": 301,
+      "time": 60052
+    },
+    {
+      "action": 301,
+      "time": 61347
+    },
+    {
+      "action": 301,
+      "time": 65281
+    },
+    {
+      "action": 301,
+      "time": 66826
+    },
+    {
+      "action": 301,
+      "time": 68672
+    },
+    {
+      "action": 301,
+      "time": 73267
+    },
+    {
+      "action": 301,
+      "time": 75331
+    },
+    {
+      "action": 301,
+      "time": 80821
+    },
+    {
+      "action": 301,
+      "time": 84460
     }
   ]
 }

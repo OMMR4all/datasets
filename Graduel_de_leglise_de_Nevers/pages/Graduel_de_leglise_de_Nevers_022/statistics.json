@@ -2,13 +2,14 @@
   "actions": {
     "Undo": 10,
     "Redo": 6,
+    "Unlocked": 1,
     "StaffLinesEditPoints": 12,
     "StaffLinesEditPath": 13,
     "LayoutDelete": 1,
     "LayoutSelect": 13,
     "LayoutNewRegion": 5,
     "LayoutLassoArea": 6,
-    "SymbolsDrag": 43,
+    "SymbolsDrag": 46,
     "SymbolsInsert": 1,
     "SymbolsMove": 7,
     "SymbolsChangeGraphicalConnection": 11,
@@ -24,13 +25,13 @@
     "CommentsText": 4
   },
   "toolTiming": {
-    "View": 333834,
+    "View": 377691,
     "CreateStaffLines": 184082,
     "SplitStaffLines": 0,
     "Layout": 192738,
     "LayoutExtractConnectedComponents": 5303,
     "LayoutLassoArea": 82628,
-    "Symbol": 840023,
+    "Symbol": 890923,
     "Lyrics": 1584617,
     "Syllables": 636478
   },
@@ -3650,6 +3651,22 @@
     {
       "action": 404,
       "time": 176948.805
+    },
+    {
+      "action": 5,
+      "time": 55965
+    },
+    {
+      "action": 301,
+      "time": 59761
+    },
+    {
+      "action": 301,
+      "time": 68610
+    },
+    {
+      "action": 301,
+      "time": 85728
     }
   ]
 }

@@ -1,6 +1,7 @@
 {
   "actions": {
     "Undo": 29,
+    "Unlocked": 1,
     "PolylineSelect": 1,
     "StaffLinesDelete": 1,
     "StaffLinesEditPoints": 19,
@@ -13,8 +14,8 @@
     "SymbolsDrag": 7,
     "SymbolsDelete": 1,
     "SymbolsInsert": 6,
-    "SymbolsChangeGraphicalConnection": 5,
-    "SymbolsChangeNeumeStart": 7,
+    "SymbolsChangeGraphicalConnection": 7,
+    "SymbolsChangeNeumeStart": 11,
     "SymbolsDeleteAll": 1,
     "LyricsEdit": 868,
     "LyricsNextTextContainer": 1,
@@ -23,12 +24,12 @@
     "ReadingOrderAuto": 2
   },
   "toolTiming": {
-    "View": 38174,
+    "View": 75221,
     "CreateStaffLines": 269954,
     "Layout": 35789,
     "LayoutExtractConnectedComponents": 17198,
     "LayoutLassoArea": 170912,
-    "Symbol": 559040,
+    "Symbol": 678620,
     "Lyrics": 1723518,
     "Syllables": 508135
   },
@@ -4700,6 +4701,34 @@
     {
       "action": 503,
       "time": 192631.18499999837
+    },
+    {
+      "action": 5,
+      "time": 11163
+    },
+    {
+      "action": 307,
+      "time": 21913
+    },
+    {
+      "action": 307,
+      "time": 22625
+    },
+    {
+      "action": 308,
+      "time": 41233
+    },
+    {
+      "action": 308,
+      "time": 45397
+    },
+    {
+      "action": 308,
+      "time": 57448
+    },
+    {
+      "action": 308,
+      "time": 85142
     }
   ]
 }
