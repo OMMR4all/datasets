@@ -1,165 +1,22 @@
 {
   "actions": {
-    "Unlocked": 2,
-    "SymbolsDrag": 36
+    "Locked": 3
   },
   "toolTiming": {
-    "View": 40956,
-    "CreateStaffLines": 2271,
-    "Symbol": 128906
+    "View": 14021
   },
   "actionHistory": [
     {
-      "action": 5,
-      "time": 238257
+      "action": 4,
+      "time": 69190
     },
     {
-      "action": 5,
-      "time": 256621
+      "action": 4,
+      "time": 70755
     },
     {
-      "action": 301,
-      "time": 264034
-    },
-    {
-      "action": 301,
-      "time": 265213
-    },
-    {
-      "action": 301,
-      "time": 266651
-    },
-    {
-      "action": 301,
-      "time": 269466
-    },
-    {
-      "action": 301,
-      "time": 272992
-    },
-    {
-      "action": 301,
-      "time": 274991
-    },
-    {
-      "action": 301,
-      "time": 276966
-    },
-    {
-      "action": 301,
-      "time": 278816
-    },
-    {
-      "action": 301,
-      "time": 280475
-    },
-    {
-      "action": 301,
-      "time": 283840
-    },
-    {
-      "action": 301,
-      "time": 284944
-    },
-    {
-      "action": 301,
-      "time": 287209
-    },
-    {
-      "action": 301,
-      "time": 289887
-    },
-    {
-      "action": 301,
-      "time": 291925
-    },
-    {
-      "action": 301,
-      "time": 294772
-    },
-    {
-      "action": 301,
-      "time": 296001
-    },
-    {
-      "action": 301,
-      "time": 299366
-    },
-    {
-      "action": 301,
-      "time": 300387
-    },
-    {
-      "action": 301,
-      "time": 302537
-    },
-    {
-      "action": 301,
-      "time": 304241
-    },
-    {
-      "action": 301,
-      "time": 305917
-    },
-    {
-      "action": 301,
-      "time": 309576
-    },
-    {
-      "action": 301,
-      "time": 311242
-    },
-    {
-      "action": 301,
-      "time": 312744
-    },
-    {
-      "action": 301,
-      "time": 314252
-    },
-    {
-      "action": 301,
-      "time": 323469
-    },
-    {
-      "action": 301,
-      "time": 326038
-    },
-    {
-      "action": 301,
-      "time": 326969
-    },
-    {
-      "action": 301,
-      "time": 328021
-    },
-    {
-      "action": 301,
-      "time": 329104
-    },
-    {
-      "action": 301,
-      "time": 330526
-    },
-    {
-      "action": 301,
-      "time": 335921
-    },
-    {
-      "action": 301,
-      "time": 337041
-    },
-    {
-      "action": 301,
-      "time": 338864
-    },
-    {
-      "action": 301,
-      "time": 340446
-    },
-    {
-      "action": 301,
-      "time": 341605
+      "action": 4,
+      "time": 72800
     }
   ]
 }

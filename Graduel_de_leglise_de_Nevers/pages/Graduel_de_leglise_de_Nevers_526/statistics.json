@@ -1,5 +1,14 @@
 {
-  "actions": {},
-  "toolTiming": {},
-  "actionHistory": []
+  "actions": {
+    "LockAll": 1
+  },
+  "toolTiming": {
+    "View": 3077
+  },
+  "actionHistory": [
+    {
+      "action": 6,
+      "time": 189145
+    }
+  ]
 }

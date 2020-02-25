@@ -1,54 +1,14 @@
 {
   "actions": {
-    "SymbolsDrag": 11
+    "LockAll": 1
   },
   "toolTiming": {
-    "Symbol": 83787
+    "View": 2005
   },
   "actionHistory": [
     {
-      "action": 301,
-      "time": 3596742
-    },
-    {
-      "action": 301,
-      "time": 3600149
-    },
-    {
-      "action": 301,
-      "time": 3606511
-    },
-    {
-      "action": 301,
-      "time": 3609499
-    },
-    {
-      "action": 301,
-      "time": 3621600
-    },
-    {
-      "action": 301,
-      "time": 3625401
-    },
-    {
-      "action": 301,
-      "time": 3626478
-    },
-    {
-      "action": 301,
-      "time": 3628319
-    },
-    {
-      "action": 301,
-      "time": 3634433
-    },
-    {
-      "action": 301,
-      "time": 3637513
-    },
-    {
-      "action": 301,
-      "time": 3639973
+      "action": 6,
+      "time": 172357
     }
   ]
 }

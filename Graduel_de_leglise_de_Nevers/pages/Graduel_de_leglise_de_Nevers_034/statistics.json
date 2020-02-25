@@ -1,125 +1,14 @@
 {
   "actions": {
-    "Unlocked": 1,
-    "SymbolsDrag": 26,
-    "SymbolsDelete": 1
+    "LockAll": 1
   },
   "toolTiming": {
-    "View": 713,
-    "Symbol": 108503
+    "View": 1003
   },
   "actionHistory": [
     {
-      "action": 5,
-      "time": 136415
-    },
-    {
-      "action": 301,
-      "time": 142029
-    },
-    {
-      "action": 301,
-      "time": 146209
-    },
-    {
-      "action": 301,
-      "time": 150025
-    },
-    {
-      "action": 301,
-      "time": 153664
-    },
-    {
-      "action": 301,
-      "time": 154903
-    },
-    {
-      "action": 301,
-      "time": 158277
-    },
-    {
-      "action": 302,
-      "time": 167848
-    },
-    {
-      "action": 301,
-      "time": 173534
-    },
-    {
-      "action": 301,
-      "time": 174578
-    },
-    {
-      "action": 301,
-      "time": 176131
-    },
-    {
-      "action": 301,
-      "time": 188324
-    },
-    {
-      "action": 301,
-      "time": 194866
-    },
-    {
-      "action": 301,
-      "time": 196783
-    },
-    {
-      "action": 301,
-      "time": 197714
-    },
-    {
-      "action": 301,
-      "time": 199893
-    },
-    {
-      "action": 301,
-      "time": 200522
-    },
-    {
-      "action": 301,
-      "time": 201953
-    },
-    {
-      "action": 301,
-      "time": 206862
-    },
-    {
-      "action": 301,
-      "time": 209723
-    },
-    {
-      "action": 301,
-      "time": 210932
-    },
-    {
-      "action": 301,
-      "time": 213814
-    },
-    {
-      "action": 301,
-      "time": 215839
-    },
-    {
-      "action": 301,
-      "time": 217639
-    },
-    {
-      "action": 301,
-      "time": 220745
-    },
-    {
-      "action": 301,
-      "time": 229635
-    },
-    {
-      "action": 301,
-      "time": 230557
-    },
-    {
-      "action": 301,
-      "time": 232494
+      "action": 6,
+      "time": 128900
     }
   ]
 }

@@ -1,23 +1,14 @@
 {
   "actions": {
-    "Locked": 1,
-    "Unlocked": 2
+    "LockAll": 1
   },
   "toolTiming": {
-    "Symbol": 25816
+    "View": 4018
   },
   "actionHistory": [
     {
-      "action": 5,
-      "time": 8063844
-    },
-    {
-      "action": 4,
-      "time": 8064934
-    },
-    {
-      "action": 5,
-      "time": 8065977
+      "action": 6,
+      "time": 238143
     }
   ]
 }

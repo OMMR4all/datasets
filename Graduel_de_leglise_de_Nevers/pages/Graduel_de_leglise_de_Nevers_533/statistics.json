@@ -1,29 +1,14 @@
 {
   "actions": {
-    "Unlocked": 1,
-    "SymbolsDrag": 2,
-    "SymbolsChangeNeumeStart": 1
+    "LockAll": 1
   },
   "toolTiming": {
-    "View": 673,
-    "Symbol": 50101
+    "View": 2001
   },
   "actionHistory": [
     {
-      "action": 5,
-      "time": 7438430
-    },
-    {
-      "action": 308,
-      "time": 7443374
-    },
-    {
-      "action": 301,
-      "time": 7449260
-    },
-    {
-      "action": 301,
-      "time": 7463284
+      "action": 6,
+      "time": 210401
     }
   ]
 }

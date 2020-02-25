@@ -1,23 +1,14 @@
 {
   "actions": {
-    "SymbolsDrag": 1,
-    "SymbolsChangeNeumeStart": 2
+    "LockAll": 1
   },
   "toolTiming": {
-    "Symbol": 69003
+    "View": 2177
   },
   "actionHistory": [
     {
-      "action": 301,
-      "time": 2793736
-    },
-    {
-      "action": 308,
-      "time": 2796742
-    },
-    {
-      "action": 308,
-      "time": 2811453
+      "action": 6,
+      "time": 147210
     }
   ]
 }

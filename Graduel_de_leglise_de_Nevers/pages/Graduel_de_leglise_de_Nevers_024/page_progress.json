@@ -1,9 +1,9 @@
 {
   "locked": {
-    "StaffLines": false,
+    "StaffLines": true,
     "Layout": true,
-    "Symbols": false,
-    "Text": false
+    "Symbols": true,
+    "Text": true
   },
   "verified": false
 }
